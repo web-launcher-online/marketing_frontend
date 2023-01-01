@@ -1,0 +1,12 @@
+{
+  "files.exclude": {
+    ".yarn": true,
+    ".vscode": true,
+    ".gitignore": true,
+    "node_modules": true,
+    ".nuxt": true,
+    "tsconfig.json": true,
+    ".yarnrc.yml": true,
+    ".output": true
+  }
+}
