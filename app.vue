@@ -37,6 +37,16 @@ h2 {
   margin-bottom: 25px;
 }
 
+h3 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  font-family: 'Patua One';
+}
+
+p {
+  line-height: 1.75rem;
+}
+
 button {
   font-family: 'Roboto', 'sans-serif';
   background-color: black;
