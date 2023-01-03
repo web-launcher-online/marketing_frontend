@@ -33,6 +33,6 @@
 }
 
 .c-hero img {
-  width: 400px;
+  width: 450px;
 }
 </style>
