@@ -78,7 +78,7 @@ button {
 
 .u-contain {
   position: relative;
-  width: 1200px;
+  width: 1300px;
   max-width: 100%;
   z-index: 10;
   margin: 0 auto;
