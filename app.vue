@@ -44,6 +44,11 @@ h3 {
   font-family: 'Patua One';
 }
 
+h4 {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
 p {
   line-height: 1.75rem;
   margin-bottom: 5px;

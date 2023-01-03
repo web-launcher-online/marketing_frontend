@@ -12,17 +12,15 @@
       </template>
     </Hero>
 
-    <!-- <InfoBlock
-        title="Your personal starting point for every web journey"
-        message="Test" /> -->
-
     <InfoBlock
       title="Choose a layout, or build your own"
-      message="Want to get something up and running fast? Use one of our layouts and tweak it to your hearts content. Alternatively build your own layout from scratch just how you like it." />~
+      message="Want to get something up and running fast? Use one of our layouts and tweak it to your hearts content. Alternatively build your own layout from scratch just how you like it." />
 
     <InfoBlock
       title="Add the blocks you need"
       message="We offer a wide variety of tools to make your start pages your own, keep it really clean and simple or build a productivity powerhouse." />
+
+    <FeatureGallery />
 
     <InfoBlock
       title="Your privacy is protected"
