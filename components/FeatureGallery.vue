@@ -3,47 +3,47 @@
     <div class="c-featureGallery-nav">
       <div class="c-featureGallery-nav-inner">
         <div class="c-featureGallery-linkItem">
-          <img src="images/featureGallery/clock.png">
+          <img src="images/featureGallery/clock.png" alt="Clock Icon">
           <p>Clock</p>
         </div>
 
         <div class="c-featureGallery-linkItem">
-          <img src="images/featureGallery/bookmark.png">
+          <img src="images/featureGallery/bookmark.png" alt="Bookmarks Icon">
           <p>Bookmarks</p>
         </div>
         
         <div class="c-featureGallery-linkItem">
-          <img src="images/featureGallery/cloudy.png">
+          <img src="images/featureGallery/cloudy.png" alt="Weather Icon">
           <p>Weather</p>
         </div>
 
         <div class="c-featureGallery-linkItem">
-          <img src="images/featureGallery/file.png">
+          <img src="images/featureGallery/file.png" alt="Notes Icon">
           <p>Notes</p>
         </div>
 
         <div class="c-featureGallery-linkItem">
-          <img src="images/featureGallery/calendar.png">
+          <img src="images/featureGallery/calendar.png" alt="Calendar Icon">
           <p>Calendar</p>
         </div>
 
         <div class="c-featureGallery-linkItem">
-          <img src="images/featureGallery/search.png">
+          <img src="images/featureGallery/search.png" alt="Search Icon">
           <p>Web Search</p>
         </div>
 
         <div class="c-featureGallery-linkItem">
-          <img src="images/featureGallery/stats.png">
+          <img src="images/featureGallery/stats.png" alt="Charts Icon">
           <p>Charts</p>
         </div>
 
         <div class="c-featureGallery-linkItem">
-          <img src="images/featureGallery/settings.png">
+          <img src="images/featureGallery/settings.png" alt="Settings Icon">
           <p>Settings</p>
         </div>
 
         <div class="c-featureGallery-linkItem">
-          <img src="images/featureGallery/add.png">
+          <img src="images/featureGallery/add.png" alt="And Much More">
           <p>And more...</p>
         </div>
       </div>
@@ -132,10 +132,11 @@
   padding: 10px;
   cursor: pointer;
   border: 5px solid #FCFAF8;
+  transition: border 0.15s ease-in-out;
 }
 
 .c-featureGallery-linkItem img:hover {
-  border: 0px;
+  border: 0px solid #FCFAF8;
 }
 
 .c-featureGallery-content {

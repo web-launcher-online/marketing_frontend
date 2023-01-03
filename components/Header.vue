@@ -12,7 +12,7 @@
 .c-header {
   display: flex;
   align-items: center;
-  min-height: 60px;
+  min-height: 80px;
   padding: 0 20px;
 }
 
