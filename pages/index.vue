@@ -26,6 +26,8 @@
       title="Your privacy is protected"
       message="We don't harvest or trade your data. In fact you don't even need to create an account to use our service by keeping your data local to your device, or opt to login to sync across all your devices." />        
 
+    <Privacy />
+
     <InfoBlock
       title="The perfect way to start every browsing session"
       message="No longer make do with a sub par default experience that is inconsistent across all of your devices, start today to build a beautiful and personal experience so you can start every journey in the best way possible." />        
