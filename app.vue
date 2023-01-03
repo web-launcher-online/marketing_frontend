@@ -69,7 +69,8 @@ button {
   background-color: black;
   color: white;
   border: 1px solid white;
-  padding: 10px 20px;
+  padding: 15px 30px;
+  border-radius: 5px;
   font-size: 1rem;
   cursor: pointer;
   margin: 15px 0;
