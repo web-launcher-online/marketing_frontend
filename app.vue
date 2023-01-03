@@ -33,6 +33,12 @@ h1 {
   margin-bottom: 30px;
 }
 
+@media (max-width: 800px) {
+  h1 {
+    font-size: 3rem;
+  }
+}
+
 h2 {
   font-size: 1.3rem;
   margin-bottom: 25px;
