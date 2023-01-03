@@ -10,5 +10,6 @@
   padding: 60px 60px;
   border-radius: 10px;
   margin: 30px auto;
+  max-width: calc(100% - 40px);
 }
 </style>
