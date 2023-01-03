@@ -65,4 +65,11 @@ button {
   flex-grow: 1;
   margin-right: 20px;
 }
+
+@media (max-width: 1000px) {
+  .u-hidden-mobile {
+    display: none;
+  }
+}
+
 </style>
