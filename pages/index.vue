@@ -26,6 +26,6 @@
 
       <InfoBlock
         title="Your privacy is protected"
-        message="We don't harvest or trade your data. In fact you don't even need to create an account; keep your data local to your device, or login to sync across all your devices." />
+        message="We don't harvest or trade your data. In fact you don't even need to create an account to use our service by keeping your data local to your device, or opt to login to sync across all your devices." />
   </div>
 </template>
