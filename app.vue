@@ -2,6 +2,7 @@
   <div>
     <Header />
     <NuxtPage />
+    <Footer />
   </div>
 </template>
 
@@ -45,6 +46,7 @@ h3 {
 
 p {
   line-height: 1.75rem;
+  margin-bottom: 5px;
 }
 
 button {
