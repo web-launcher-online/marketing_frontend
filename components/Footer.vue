@@ -84,7 +84,18 @@
 }
 
 .c-footer-category {
-  flex: 1 1;
+   flex: 1 1;
+}
+
+@media (max-width: 500px) {
+  .c-footer-linksWrapper {
+    flex-direction: column;
+  }
+
+  .c-footer-category {
+   flex: 1 1;
+   margin-bottom: 20px;
+  }
 }
 
 .c-footer-category svg {
