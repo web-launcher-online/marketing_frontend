@@ -34,6 +34,8 @@
       <h3>Build your own custom start page today</h3>
       <p>Ditch the boring default browser start pages and build your own experience for free.</p>
       <p>Create your own serenity online or build a productivity powerhouse and push yourself to the next level</p>
+
+      <p>You don't need to setup an account to try it out!</p>
       <button type="button">Get Started</button>
     </Box>
   </div>
