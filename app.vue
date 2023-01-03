@@ -49,6 +49,10 @@ h4 {
   margin-bottom: 20px;
 }
 
+h5 {
+  font-size: 1rem;
+}
+
 p {
   line-height: 1.75rem;
   margin-bottom: 5px;

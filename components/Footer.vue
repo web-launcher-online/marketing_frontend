@@ -1,15 +1,15 @@
 <template>
   <div class="c-footer">
     <div class="c-footer-inner">
-      <a href="https://www.micro-stat.com">
+      <a href="/">
         <img class="c-footer-logo" src="/images/logo.png" width="217" height="60" alt="Site Logo">
       </a>
 
       <div class="c-footer-linksWrapper">
         <div class="c-footer-category">
-          <h4>
+          <h5>
             <span>Product</span>
-          </h4>
+          </h5>
 
           <nuxt-link to="/">
             Homepage
@@ -20,26 +20,26 @@
         </div>
 
         <div class="c-footer-category">
-          <h4>
+          <h5>
             <span>Dashboard</span>
-          </h4>
+          </h5>
 
           <a href="https://go.weblauncher.online/register">Get Started</a>
           <a href="https://go.weblauncher.online/signin">Sign In</a>
         </div>
 
         <div class="c-footer-category">
-          <h4>
+          <h5>
             <span>Company</span>
-          </h4>
+          </h5>
 
           <a href="https://github.com/web-launcher-online" target="_blank">Github</a>
         </div>
 
         <div class="c-footer-category">
-          <h4>
+          <h5>
             <span>Support</span>
-          </h4>
+          </h5>
 
           <nuxt-link to="/privacy">
             Privacy Policy

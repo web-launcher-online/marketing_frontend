@@ -3,47 +3,47 @@
     <div class="c-featureGallery-nav">
       <div class="c-featureGallery-nav-inner">
         <div class="c-featureGallery-linkItem">
-          <img src="images/featureGallery/clock.png" alt="Clock Icon">
+          <img src="/images/featureGallery/clock.png" alt="Clock Icon">
           <p>Clock</p>
         </div>
 
         <div class="c-featureGallery-linkItem">
-          <img src="images/featureGallery/bookmark.png" alt="Bookmarks Icon">
+          <img src="/images/featureGallery/bookmark.png" alt="Bookmarks Icon">
           <p>Bookmarks</p>
         </div>
         
         <div class="c-featureGallery-linkItem">
-          <img src="images/featureGallery/cloudy.png" alt="Weather Icon">
+          <img src="/images/featureGallery/cloudy.png" alt="Weather Icon">
           <p>Weather</p>
         </div>
 
         <div class="c-featureGallery-linkItem">
-          <img src="images/featureGallery/file.png" alt="Notes Icon">
+          <img src="/images/featureGallery/file.png" alt="Notes Icon">
           <p>Notes</p>
         </div>
 
         <div class="c-featureGallery-linkItem">
-          <img src="images/featureGallery/calendar.png" alt="Calendar Icon">
+          <img src="/images/featureGallery/calendar.png" alt="Calendar Icon">
           <p>Calendar</p>
         </div>
 
         <div class="c-featureGallery-linkItem">
-          <img src="images/featureGallery/search.png" alt="Search Icon">
+          <img src="/images/featureGallery/search.png" alt="Search Icon">
           <p>Web Search</p>
         </div>
 
         <div class="c-featureGallery-linkItem">
-          <img src="images/featureGallery/stats.png" alt="Charts Icon">
+          <img src="/images/featureGallery/stats.png" alt="Charts Icon">
           <p>Charts</p>
         </div>
 
         <div class="c-featureGallery-linkItem">
-          <img src="images/featureGallery/settings.png" alt="Settings Icon">
+          <img src="/images/featureGallery/settings.png" alt="Settings Icon">
           <p>Settings</p>
         </div>
 
         <div class="c-featureGallery-linkItem">
-          <img src="images/featureGallery/add.png" alt="And Much More">
+          <img src="/images/featureGallery/add.png" alt="And Much More">
           <p>And more...</p>
         </div>
       </div>
