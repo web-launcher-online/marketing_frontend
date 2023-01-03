@@ -48,6 +48,14 @@
             Terms of Use
           </nuxt-link>
         </div>
+
+        <div class="c-footer-category">
+          <h5>
+            <span>Attribution</span>
+          </h5>
+
+          <a href="https://www.flaticon.com/free-icons/sidebar" title="sidebar icons">Icons created by Kirill Kazachek</a>
+        </div>
       </div>
     </div>
   </div>
