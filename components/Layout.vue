@@ -13,6 +13,7 @@
     width: 800px;
     max-width: calc(100% - 40px);
     margin: 0 auto;
+    margin-bottom: 60px;
     border-radius: 10px;
     padding: 50px;
   }
