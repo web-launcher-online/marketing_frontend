@@ -14,6 +14,13 @@ html {
   background-color: white;
 }
 
+@media (max-width: 1250px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+
 *, *:before, *:after {
   box-sizing: border-box;
   margin: 0;
