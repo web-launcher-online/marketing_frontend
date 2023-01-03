@@ -14,7 +14,7 @@
 <style>
 .c-hero {
   position: relative;
-  padding: 140px 80px;
+  padding: 160px 80px;
   background-color: #FCFAF8;
   color: black;
 }
