@@ -25,7 +25,7 @@ export default {
 .c-infoBlock {
   width: 800px;
   max-width: 100%;
-  padding: 80px 40px;;
+  padding: 60px 40px;;
   text-align: center;
   margin: 0 auto;
 }
