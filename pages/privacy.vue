@@ -88,15 +88,22 @@
       <p>If you choose to sign in or create an account we create a cookie on your device so that we can provide the personalised experience you expect and so we can remember that you are signed in.</p>
       <br>
       <p>Should you choose to use our service without signing into an account, your personalised start page configuration and data is stored in your browsers local storage, this data never leaves your device unless you choose to sign in and sync your pages across your other devices in which case we store it in our databases instead.</p>
+      <br>
+      <p>When you delete your account, a page or an app block; we delete any information provided within it, it is not retained once you stop using it.</p>
     </TextBlock>
 
     <InfoBlock
       title="GDPR Data Protection Rights"
-      message="We comply with the rules relating to GDPR, if you want to exercise your rights, these are some ways we can help you."
+      message="We comply with the rules relating to GDPR, here are some of your key rights."
     />
 
     <TextBlock>
-      <p>Coming Soon.</p>
+      <p>The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.</p>
+      <p>The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.</p>
+      <p>The right to erasure – You have the right to request that we erase your personal data, under certain conditions.</p>
+      <p>The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.</p>
+      <p>The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.</p>
+      <p>The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.</p>
     </TextBlock>
   </div>
 </template>
