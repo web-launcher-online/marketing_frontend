@@ -17,11 +17,14 @@
           <nuxt-link to="/pricing">
             Pricing
           </nuxt-link>
+          <nuxt-link to="/pricing">
+            Business Plans
+          </nuxt-link>
         </div>
 
         <div class="c-footer-category">
           <h5>
-            <span>Dashboard</span>
+            <span>Build your Pages</span>
           </h5>
 
           <a href="https://go.weblauncher.online/register">Get Started</a>
