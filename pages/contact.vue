@@ -1,13 +1,13 @@
 <template>
   <div>
-    <MiniHero>
+    <Layout-MiniHero>
       <template v-slot:content>
         <h1>Contact</h1>
         <h2>
           If you have any questions or comments for us, please drop us a line using the form below.
         </h2>
       </template>
-    </MiniHero>
+    </Layout-MiniHero>
   </div>
 </template>
 

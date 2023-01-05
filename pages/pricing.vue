@@ -1,13 +1,13 @@
 <template>
   <div>
-    <MiniHero>
+    <Layout-MiniHero>
       <template v-slot:content>
         <h1>Pricing</h1>
         <h2>
           You can use our service for free but if you really like us, why not subscribe to support our future development and unlock some special features.
         </h2>
       </template>
-    </MiniHero>
+    </Layout-MiniHero>
   </div>
 </template>
 

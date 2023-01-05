@@ -2,9 +2,9 @@
   <div>
     <Layout-MiniHero>
       <template v-slot:content>
-        <h1>Terms of Use</h1>
+        <h1>Business</h1>
         <h2>
-          It is important to understand the terms by which you are able to use our service. This page details the terms we outline, usage of our service is considered acceptance of them.
+          Your staff can not only benefit from creating custom start pages, but you can add powerful business tools, from basic branding all the way to a self managed news portal.
         </h2>
       </template>
     </Layout-MiniHero>

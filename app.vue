@@ -63,7 +63,7 @@ p {
   margin-bottom: 5px;
 }
 
-button {
+button, .u-button {
   font-family: 'Roboto', 'sans-serif';
   background-color: black;
   color: white;
@@ -73,6 +73,7 @@ button {
   font-size: 1rem;
   cursor: pointer;
   margin: 15px 0;
+  text-decoration: none;
 }
 
 .u-contain {
@@ -81,6 +82,12 @@ button {
   max-width: 100%;
   z-index: 10;
   margin: 0 auto;
+}
+
+.u-center {
+  text-align: center;
+  margin-top: -20px;
+  margin-bottom: 75px;
 }
 
 .u-flex {

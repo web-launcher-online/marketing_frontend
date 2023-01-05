@@ -1,6 +1,6 @@
 <template>
   <div>
-    <MiniHero>
+    <Layout-MiniHero>
       <template v-slot:content>
         <h1>Privacy Policy</h1>
         <h2>
@@ -8,9 +8,9 @@
           what information we collect, and what we use it for.
         </h2>
       </template>
-    </MiniHero>
+    </Layout-MiniHero>
 
-    <InfoBlock
+    <Common-InfoBlock
       title="Consent"
       message="By using our website, you hereby consent to our Privacy Policy and agree to its terms."
     />
@@ -24,7 +24,7 @@
       <p>This policy was last updated in January 2023.</p>
     </Common-TextBlock>
 
-    <InfoBlock
+    <Common-InfoBlock
       title="Analytics"
       message="Analytics anonymously show us what features are used on our website and how they perform."
     />
@@ -54,7 +54,7 @@
       <p>For example, we might count the number of times a particular app block is added to pages so that we can see which ones are most used and would benefit from further development. Or we might record how long it takes for our web pages to load so we can improve their performance over time.</p>
     </Common-TextBlock>
 
-    <InfoBlock
+    <Common-InfoBlock
       title="Advertising"
       message="We are staunchly against incorporating third party advertisements within our service."
     />
@@ -64,7 +64,7 @@
       <p>We don't sell space on our website to any third party, nor do we trade information that we have collected as part of delivering our service.</p>
     </Common-TextBlock>
 
-    <InfoBlock
+    <Common-InfoBlock
       title="What information do we collect?"
       message="It is necessary to collect some information to provide our service, this is what we collect and why."
     />
@@ -79,7 +79,7 @@
       <p>We don't store technical related identifiers like IP Addresses, however we do store your entered locations to provide the clock and weather functionalities if you select them on your pages.</p>
     </Common-TextBlock>
 
-    <InfoBlock
+    <Common-InfoBlock
       title="Our usage of Cookies and Storage"
       message="Cookies are a fundamental part of how the web works, this is how we use cookies and storage on your machine."
     />
@@ -92,7 +92,7 @@
       <p>When you delete your account, a page or an app block; we delete any information provided within it, it is not retained once you stop using it.</p>
     </Common-TextBlock>
 
-    <InfoBlock
+    <Common-InfoBlock
       title="GDPR Data Protection Rights"
       message="We comply with the rules relating to GDPR, here are some of your key rights."
     />

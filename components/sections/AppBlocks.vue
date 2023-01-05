@@ -44,27 +44,27 @@
 
         <div class="c-featureGallery-linkItem">
           <img src="/images/featureGallery/add.png" alt="And Much More">
-          <p>And more...</p>
+          <p>Plus more...</p>
         </div>
       </div>
     </div>
 
     <div class="c-featureGallery-content">
       <h4>Basic Blocks</h4>
-      <p>All of the basic blocks shown here can be added out of the box with no effort to give your pages a simple starting point.</p>
-      <p>From a simple clock and localised weather widgets to focused productivity tooling like Notes and Todo lists to help you stay on track</p>
+      <p>Our library of basic app blocks like clocks, weather and todo lists can be added out of the box with no effort to give your pages a simple starting point.</p>
+      <p>We offer a growing list of basic app blocks to cover most use cases.</p>
+
+      <br><br>
+
+      <h4>Advanced Blocks</h4>
+      <p>We support an ecosystem of advanced blocks added by the community. Extending what you can do with your start page.</p>
+      <p>Learn more about building advanced blocks in our Developer pages.</p>
 
       <br><br>
 
       <h4>Customise every block</h4>
       <p>You can change almost everything about a block, from the fonts and colours they use, to the amount of space they take up in your page.</p>
       <p>Layout each block in whatever order you want to get the best fit for you.</p>
-
-      <br><br>
-
-      <h4>Advanced Blocks</h4>
-      <p>We also support an ecosystem of advanced blocks added by the community. Extending what you can do with your start page.</p>
-      <p>Learn more about building advanced blocks in our Developer pages.</p>
     </div>
   </div>
 </template>
