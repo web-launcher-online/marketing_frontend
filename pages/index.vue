@@ -30,16 +30,16 @@
     <FeatureGallery />
 
     <InfoBlock
-      title="For you, your team and your business!"
-      message="We provide the best experience for many different use cases, from simple start pages just for you that enhance your personal web experience, all the way to a fully featured intranet for your business to keep everybody in sync.."
-    />  
-
-    <InfoBlock
       title="Your privacy is protected"
       message="We protect your privacy because your personal information is none of our business, find out more in our privacy policy."
     />
 
     <Sections-Privacy />
+
+    <InfoBlock
+      title="For you, your team and your business!"
+      message="We provide the best experience for many different use cases, from simple start pages just for you that enhance your personal web experience, all the way to a fully featured intranet for your business to keep everybody in sync.."
+    />  
 
     <InfoBlock
       title="The perfect way to start every browsing session"
