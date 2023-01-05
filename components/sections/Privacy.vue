@@ -26,7 +26,8 @@
 <style scoped>
 .c-privacy {
   display: flex;
-  flex-direction: row-reverse;
+  /* flex-direction: row-reverse; */
+  justify-content: center;
   margin-bottom: 60px;
 }
 
