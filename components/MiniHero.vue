@@ -15,6 +15,9 @@
   position: relative;
   padding: 80px 80px;
   background-color: #fcfaf8;
+  border: 1px solid #F4F3F2;
+  border-left: 0;
+  border-right: 0;
   color: black;
 }
 

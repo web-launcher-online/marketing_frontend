@@ -7,7 +7,8 @@
 <style scoped>
 .c-textBlock {
   background-color: #FCFAF8;
-  padding: 60px 60px;
+  border: 1px solid #F4F3F2;
+  padding: 50px 50px;
   border-radius: 10px;
   margin: 30px auto;
   margin-top: 0;

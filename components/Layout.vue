@@ -9,6 +9,7 @@
     align-items: center;
     text-align: center;
     background-color: #FCFAF8;
+    border: 1px solid #F4F3F2;
     min-height: 450px;
     width: 800px;
     max-width: calc(100% - 40px);

@@ -37,6 +37,7 @@
 .c-privacy-block {
   margin: 15px;
   background-color: #FCFAF8;
+  border: 1px solid #F4F3F2;
   padding: 50px 50px;
   min-height: 200px;
   width: 600px;

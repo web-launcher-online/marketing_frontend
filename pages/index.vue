@@ -34,14 +34,14 @@
       message="We protect your privacy because your personal information is none of our business, find out more in our privacy policy."
     />
 
-    <Privacy />
+    <Sections-Privacy />
 
     <InfoBlock
       title="The perfect way to start every browsing session"
       message="No longer make do with a sub par default experience that is inconsistent across all of your devices, start today to build a beautiful and personal experience so you can start every journey in the best way possible."
     />
 
-    <Box>
+    <Common-Box>
       <h3>Build your own custom start page today</h3>
       <p>
         Ditch the boring default browser start pages and build your own
@@ -54,7 +54,7 @@
 
       <p>You don't need to setup an account to try it out!</p>
       <button type="button">Get Started</button>
-    </Box>
+    </Common-Box>
   </div>
 </template>
 

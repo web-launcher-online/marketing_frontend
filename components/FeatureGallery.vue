@@ -85,6 +85,8 @@
 
 .c-featureGallery-nav {
   background-color: #FCFAF8;
+  border: 1px solid #F4F3F2;
+  border-left: 0;
   min-height: 450px;
   width: 40%;
   border-top-right-radius: 10px;

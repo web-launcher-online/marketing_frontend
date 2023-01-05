@@ -41,6 +41,10 @@
             <span>Support</span>
           </h5>
 
+          <nuxt-link to="/contact">
+            Contact
+          </nuxt-link>
+
           <nuxt-link to="/privacy">
             Privacy Policy
           </nuxt-link>
@@ -67,6 +71,7 @@
   padding: 10px 20px;
   margin-top: 80px;
   background-color: #FCFAF8;
+  border-top: 1px solid #F4F3F2;
 }
 
 .c-footer img {
@@ -86,8 +91,8 @@
   display: flex;
   flex-direction: row;
   padding: 40px 10px;
-  border-top: 1px solid #EDEBEA;
-  border-bottom: 1px solid #EDEBEA;
+  border-top: 1px solid #F4F3F2;
+  border-bottom: 1px solid #F4F3F2;
   max-width: 90vw;
 }
 

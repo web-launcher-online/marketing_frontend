@@ -1,8 +1,8 @@
 <template>
   <div>
-    <Header />
+    <Navigation-Header />
     <NuxtPage />
-    <Footer />
+    <Navigation-Footer />
   </div>
 </template>
 
@@ -20,7 +20,6 @@ html {
     font-size: 16px;
   }
 }
-
 
 *, *:before, *:after {
   box-sizing: border-box;
