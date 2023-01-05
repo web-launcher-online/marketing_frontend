@@ -7,7 +7,7 @@
           Sync your pages across all of your devices and enhance productivity
           with focus modes.
         </h2>
-        <button type="button">Coming Soon...</button>
+        <button type="button">Start Now</button>
       </template>
 
       <template v-slot:image>
