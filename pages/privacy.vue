@@ -13,7 +13,7 @@
     <Common-InfoBlock
       title="Consent"
       message="By using our website, you hereby consent to our Privacy Policy and agree to its terms."
-    />
+    /> 
 
     <Common-TextBlock>
       <p>
@@ -23,6 +23,13 @@
       </p>
       <p>This policy was last updated in January 2023.</p>
     </Common-TextBlock>
+
+    <Common-InfoBlock
+      title="Our Promises"
+      message="We have strong values when it comes to your privacy, here are some key promises we maintain."
+    />     
+
+    <Sections-Privacy />
 
     <Common-InfoBlock
       title="Analytics"

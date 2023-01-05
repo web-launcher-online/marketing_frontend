@@ -14,10 +14,12 @@
           <nuxt-link to="/">
             Homepage
           </nuxt-link>
+
           <nuxt-link to="/pricing">
             Pricing
           </nuxt-link>
-          <nuxt-link to="/pricing">
+
+          <nuxt-link to="/business">
             Business Plans
           </nuxt-link>
         </div>

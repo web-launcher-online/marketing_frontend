@@ -59,7 +59,6 @@
   .c-privacy-block {
     max-width: calc(100% - 40px);
     margin: 20px auto;
-    
   }
 }
 </style>
