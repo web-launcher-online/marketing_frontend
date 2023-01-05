@@ -41,23 +41,17 @@
       message="We provide the best experience for many different use cases, from simple start pages just for you that enhance your personal web experience, all the way to a fully featured intranet for your business to keep everybody in sync.."
     />  
 
-    <InfoBlock
-      title="The perfect way to start every browsing session"
-      message="No longer make do with a sub par default experience that is inconsistent across all of your devices, start today to build a beautiful and personal experience so you can start every journey in the best way possible."
-    />
-
     <Common-Box>
       <h3>Build your own custom start page today</h3>
       <p>
-        Ditch the boring default browser start pages and build your own
+        Ditch the boring default browser start pages and build your perfect start page
         experience for free.
       </p>
       <p>
-        Create your own serenity online or build a productivity powerhouse and
-        push yourself to the next level
+        Create a productivty powerhouse that helps you to get things done, or create a space of zen to start every session the right way.
       </p>
 
-      <p>You don't need to setup an account to try it out!</p>
+      <p>PS: You don't even need to register an account to build your page!</p>
       <button type="button">Get Started</button>
     </Common-Box>
   </div>
