@@ -13,4 +13,10 @@
   margin-top: 0;
   max-width: calc(100% - 40px);
 }
+
+@media (max-width: 800px) {
+  .c-textBlock {
+    padding: 30px;
+  }
+}
 </style>
