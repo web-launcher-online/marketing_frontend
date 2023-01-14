@@ -64,6 +64,7 @@ p {
 }
 
 button, .u-button {
+  display: inline-block;
   font-family: 'Roboto', 'sans-serif';
   background-color: black;
   color: white;
@@ -72,8 +73,9 @@ button, .u-button {
   border-radius: 5px;
   font-size: 1rem;
   cursor: pointer;
-  margin: 15px 0;
+  margin: 10px 0;
   text-decoration: none;
+  border-radius: 5px;
 }
 
 .u-contain {

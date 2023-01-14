@@ -7,7 +7,7 @@
           Sync your pages across all of your devices and enhance productivity
           with focus modes.
         </h2>
-        <button type="button">Start Now</button>
+        <a href="https://start.weblauncher.online/setup" class="u-button">Start Now</a>
       </template>
 
       <template v-slot:image>
@@ -66,7 +66,7 @@
       </p>
 
       <p>PS: You don't even need to register an account to build your page!</p>
-      <button type="button">Get Started</button>
+      <a href="https://start.weblauncher.online/setup" class="u-button">Get Started</a>
     </Common-Box>
   </div>
 </template>
